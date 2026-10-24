@@ -1,2 +1,2 @@
 # Joyedsecret
-The website coded by Joyedlion for all of Joyed's Projects
+This is a website that hosts every project Joyed owns. This website will be used for several things
